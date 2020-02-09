@@ -1,6 +1,6 @@
 {
     "success": true,
-    "message": "Number of jobs returned: 12",
+    "message": "Number of jobs returned: 10",
     "data": [
         {
             "createdTime": "2020-02-09T16:58:36Z",
@@ -9,7 +9,7 @@
             "agencyName": "HeadHunter Inc",
             "company": "Qwest Helicopters Inc.",
             "title": "Helicopter Pilot",
-            "description": "<div class=\"job-posting-detail-requirements\">\n\t\t\t\t<h3>Job requirements</h3>\n\t\t\t\t\t<h4>Languages</h4>\n\t\t\t\t\t<p>English</p>\n\t\t\t\t\t\t<div><h4>Education</h4><p property=\"educationRequirements\">Other trades certificate or diploma</p><h4>Credentials (certificates, licences, memberships, courses, etc.)</h4><p property=\"qualifications\">Visual Flight Rating; First Aid Certificate; Restricted Radiotelephone Operator Licence; Commercial Pilot Licence - rotors</p><h4>Experience</h4><p property=\"description experienceRequirements\">3 years to less than 5 years</p><div property=\"skills\"><dl><dt>Flight Engineer Specific Skills</dt><dd>Monitor operation of engine and aircraft systems during flight; Perform post-flight inspections, record equipment malfunctions and corrective actions taken during flight and report required repairs to ground maintenance personnel</dd><dt>Type of Flying</dt><dd>Search and rescue; Government transport; Forest firefighting; Commercial aviation; Bush pilot operation; Aerial surveys</dd><dt>Pilot Specific Skills</dt><dd>Fly fixed wing aircrafts or helicopters; Conduct pre-flight inspection of aircraft and check passenger and cargo distribution to ensure that weight and balance specifications are met; Contact control towers for takeoff clearances, arrival instructions and other information; Maintain communications with flight dispatchers and weather forecasters and respond to and report in-flight emergencies and malfunctions</dd><dt>Security and Safety</dt><dd>Medical exam</dd><dt>Transportation/Travel Information</dt><dd>Own transportation; Vehicle supplied by employer; Willing to travel for extended periods; Public transportation is not available</dd><dt>Work Conditions and Physical Capabilities</dt><dd>Fast-paced environment; Work under pressure; Manual dexterity; Attention to detail; Hand-eye co-ordination; Large workload; Tight deadlines</dd><dt>Work Location Information</dt><dd>Staff accommodation available; Remote location; Willing to relocate</dd><dt>Personal Suitability</dt><dd>Initiative; Effective interpersonal skills; Flexibility; Accurate; Team player; Excellent oral communication; Excellent written communication; Client focus; Judgement; Values and ethics; Reliability; Organized</dd></dl></div>\n\t\t\t\t\t\t</div><div id=\"comparisonchart\" class=\"comparisonchart\"></div>\n\t\t\t</div>",
+            "description": "<div class=\"job-posting-detail-requirements\">\n\t\t\t\t<h3>Job requirements</h3>\n\t\t\t\t\t<h4>Languages</h4>\n\t\t\t\t\t<p>English</p>\n\t\t\t\t\t\t<div><h4>Education</h4><p property=\"educationRequirements\">Other trades certificate or diploma</p><h4>Credentials (certificates, licences, memberships, courses, etc.)</h4><p property=\"qualifications\">Visual Flight Rating; First Aid Certificate; Restricted Radiotelephone Operator Licence; Commercial Pilot Licence - rotors</p><h4>Experience</h4><p property=\"description experienceRequirements\">3 years to less than 5 years</p><div property=\"skills\"><dl><dt>Flight Engineer Specific Skills</dt></div>",
             "address": "90 Bell Road",
             "city": "Fort Nelson",
             "postalCode": "Fort Nelson",
@@ -367,75 +367,6 @@
             "formsLabel": "Full Time",
             "applicationNotificationLabel": "Weekly",
             "salaryFormatLabel": "Hourly"
-        },
-        {
-            "createdTime": "2020-01-31T16:39:58Z",
-            "id": 21,
-            "agencyId": 1,
-            "agencyName": "Aiwrks Inc.",
-            "company": "Regent College",
-            "title": "Religion Professor - University",
-            "description": "<div class=\"job-posting-detail-requirements\">\n\t\t\t\t<h3>Job requirements</h3>\n\t\t\t\t\t<h4>Languages</h4>\n\t\t\t\t\t<p>English</p>\n\t\t\t\t\t\t<div><h4>Education</h4><p property=\"educationRequirements\">Master's degree</p><h4>Experience</h4><p property=\"description experienceRequirements\">5 years or more</p><dl><dt>Specific Skills</dt><dd property=\"responsibilities\">Advise on research matters; Teach one or more university subjects; Prepare, administer and grade assigned work; Prepare special lectures and presentations for conferences and consultations; Direct research programs of graduate students; Conduct research in field of specialization; Conduct seminars and discussion groups; Serve on faculty committees dealing with research, budgets, curriculum planning and requirements and staffing; Advise students on course and academic matters and career decision</dd></dl><div property=\"skills\"><dl><dt>Security and Safety</dt><dd>Criminal record check</dd><dt>Work Conditions and Physical Capabilities</dt><dd>Fast-paced environment; Work under pressure; Attention to detail; Combination of sitting, standing, walking; Large workload; Tight deadlines</dd><dt>Personal Suitability</dt><dd>Effective interpersonal skills; Accurate; Team player; Excellent oral communication; Excellent written communication; Dependability; Judgement; Reliability; Organized</dd></dl></div>\n\t\t\t\t\t\t</div><div id=\"comparisonchart\" class=\"comparisonchart\"></div>\n\t\t\t</div>",
-            "address": "5800 University Blvd",
-            "city": "Vancouver",
-            "postalCode": "V6T 2E4",
-            "province": "BC",
-            "hideCompany": false,
-            "hideAddress": false,
-            "noOfPositions": 1,
-            "longitude": -123.24628,
-            "latitude": 49.2656815,
-            "type": "OFFICE",
-            "forms": [
-                "FULL_TIME"
-            ],
-            "applicationNotification": "INDIVIDUAL",
-            "needResume": true,
-            "emailNotification": true,
-            "minSalary": 79213.0,
-            "maxSalary": 114946.0,
-            "salaryFormat": "YEARLY",
-            "active": true,
-            "typeLabel": "Office",
-            "formsLabel": "Full Time",
-            "applicationNotificationLabel": "Individual",
-            "salaryFormatLabel": "Yearly"
-        },
-        {
-            "createdTime": "2020-01-28T20:17:00Z",
-            "id": 20,
-            "agencyId": 1,
-            "agencyName": "Aiwrks Inc.",
-            "company": "Villa Manoir Montcalm",
-            "title": "Medical Orderly",
-            "description": "<div class=\"job-posting-detail-requirements\">\n\t\t\t\t<h3>Job requirements</h3>\n\t\t\t\t\t<h4>Languages</h4>\n\t\t\t\t\t<p>French</p>\n\t\t\t\t\t\t<div><h4>Education</h4><p property=\"educationRequirements\">Secondary (high) school graduation certificate<br>or equivalent experience</p><h4>Experience</h4><p property=\"description experienceRequirements\">1 year to less than 2 years</p>\n\t\t\t\t\t\t</div><div id=\"comparisonchart\" class=\"comparisonchart\"></div>\n\t\t\t</div>",
-            "address": "330 Chemin-Sainte-Foy",
-            "city": "Québec",
-            "postalCode": "G1S 2J3",
-            "province": "QC",
-            "hideCompany": false,
-            "hideAddress": false,
-            "noOfPositions": 1,
-            "longitude": -71.2347324,
-            "latitude": 46.8042666,
-            "type": "OFFICE",
-            "forms": [
-                "FULL_TIME"
-            ],
-            "applicationNotification": "DAILY",
-            "needResume": true,
-            "emailNotification": true,
-            "minSalary": 17.0,
-            "maxSalary": 19.0,
-            "salaryFormat": "HOURLY",
-            "active": true,
-            "typeLabel": "Office",
-            "formsLabel": "Full Time",
-            "applicationNotificationLabel": "Daily",
-            "salaryFormatLabel": "Hourly"
         }
-       
-        
-  
     ]
 }
